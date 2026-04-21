@@ -19,7 +19,7 @@
                         <h5 class="text-muted">No favorites yet</h5>
                         <p class="text-muted">Start adding movies to your favorites list!</p>
                         <a href="{{ url('/dashboard') }}" class="btn btn-primary mt-2" >
-                          <i class="fas fa-search"> cari favoritmu</i>
+                          <i class="fas fa-search"> find your favorite movie</i>
                         </a>
                       </div>
                     </div>
